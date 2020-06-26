@@ -1,0 +1,44 @@
+name: chat
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  firebase_messaging: ^4.0.0+1
+  flutter_local_notifications: ^0.5.2
+  firebase_core: ^0.3.1+1
+  firebase_database: ^2.0.2
+  flutter_dialogflow: ^0.1.3
+  cloud_firestore:
+  firebase_auth:
+  google_sign_in: 
+  flutter_bloc: ^4.0.0
+  equatable:
+  meta:
+  rxdart:
+  flutter_auth_buttons:
+  encrypt:
+  password:
+  hash:
+  steel_crypt:
+  rsa_util:
+  flutter_aes_ecb_pkcs5: ^0.1.1
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - assets/
+
